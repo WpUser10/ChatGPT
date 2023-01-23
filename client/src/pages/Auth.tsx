@@ -21,9 +21,9 @@ export default function Auth() {
       >
         {logo}
         <p style={{ marginTop: "28px", marginBottom: "8px", fontSize: "18px" }}>
-          Welcometo chatGPT
+          Welcometo ImmoChat
         </p>
-        <p>Login to continue</p>
+        <p>Войдите чтобы продолжить.</p>
         <div
           className="same_line"
           style={{ display: "flex", flexDirection: "row", marginTop: "25px" }}
