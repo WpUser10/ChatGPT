@@ -6,7 +6,7 @@ export default function Hero() {
     <div
       style={{ display: "flex", flexDirection: "column", alignItems: "center" }}
     >
-      <h1 style={{ marginTop: "18vh", marginBottom: "5vh" }}>ChatGPT</h1>
+      <h1 style={{ marginTop: "18vh", marginBottom: "5vh" }}>ImmoChat :)</h1>
       <div
         className="cols"
         style={{ display: "flex", flexDirection: "row", gap: "18px" }}
@@ -22,7 +22,7 @@ export default function Hero() {
           }}
         >
           {sun}
-          <p style={{ fontSize: "18px", marginTop: "5px" }}>Examples</p>
+          <p style={{ fontSize: "18px", marginTop: "5px" }}>Примеры</p>
           <div
             style={{
               backgroundColor: "#3e3f4b",
@@ -35,7 +35,7 @@ export default function Hero() {
               fontSize: "14px",
             }}
           >
-            "Explain quantum computing in simple terms"
+            "Почему коллеги с именем на букву К самые токсичные?"
           </div>
           <div
             className=""
@@ -50,7 +50,7 @@ export default function Hero() {
               fontSize: "14px",
             }}
           >
-            "Got any creative ideas for a 10 year old’s birthday?"
+            "Дай креативных идей для празднования 10летия"
           </div>
           <div
             style={{
@@ -64,7 +64,7 @@ export default function Hero() {
               fontSize: "14px",
             }}
           >
-            "How do I make an HTTP request in Javascript?"
+            "Как сделать http запрос через яваскрипт?"
           </div>
         </div>
         <div
